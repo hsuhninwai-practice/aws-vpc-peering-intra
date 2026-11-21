@@ -2,4 +2,4 @@
 *.tfstate
 *.tfstate.*
 tfplan
-.terraform.lock.hcl**/.terraform.lock.hcl
+**/.terraform.lock.hcl
